@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1>Borja Molina Zea</h1>
-    <h3>Hola</h3>
     <h2>Mi página web</h2>
     <?php
         date_default_timezone_set('Europe/Madrid');
