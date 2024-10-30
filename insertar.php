@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost"; 
-    $username = "bor";
-    $password = "bor"; //Soy consciente de que estoy poniendo una pass, es para hacer pruebas de despliegue en local para fines didácticos       
+    $username = "marian";
+    $password = "marian"; //Soy consciente de que estoy poniendo una pass, es para hacer pruebas de despliegue en local para fines didácticos       
     $dbname = "prueba"; 
 
     // Crear conexión con la base de datos
@@ -24,7 +24,7 @@
         }
     }
 
-    
+
     // Cerrar la conexión a la base de datos
     $conn->close();
 ?>
